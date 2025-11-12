@@ -23,7 +23,7 @@ Modelo **RobertaForSequenceClassification** fine-tuned para classificação mult
 
 Este projeto foi desenvolvido utilizando o seguinte stack de tecnologias de *Deep Learning*:
 
-- **Framework de Deep Learning:** [PyTorch](https://pytorch.org/)  
+- **Framework de Deep Learning:** [PyTorch](https://pytorch.org/)  — usado para o fine-tuning do modelo pré-treinado
 - **Biblioteca de Modelagem:** [Hugging Face Transformers](https://huggingface.co/docs/transformers) — usada para carregar o modelo base, o tokenizador e a *pipeline* de inferência  
 - **Modelo Base:** [`roberta-base`](https://huggingface.co/roberta-base)  
 - **Linguagem:** Python  
