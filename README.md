@@ -17,6 +17,18 @@ Modelo **RobertaForSequenceClassification** fine-tuned para classificação mult
 - **Licença:** MIT
 - **Base do modelo:** `roberta-base`
 
+---
+
+### 🛠️ Tecnologias Utilizadas
+
+Este projeto foi desenvolvido utilizando o seguinte stack de tecnologias de *Deep Learning*:
+
+- **Framework de Deep Learning:** [PyTorch](https://pytorch.org/)  
+- **Biblioteca de Modelagem:** [Hugging Face Transformers](https://huggingface.co/docs/transformers) — usada para carregar o modelo base, o tokenizador e a *pipeline* de inferência  
+- **Modelo Base:** [`roberta-base`](https://huggingface.co/roberta-base)  
+- **Linguagem:** Python  
+- **Ecossistema:** [Hugging Face Hub](https://huggingface.co/) — utilizado para hospedagem do modelo e do tokenizador  
+
 ### Uso Direto
 
 Classificação multi-label de emoções em textos em inglês. Retorna a probabilidade de cada emoção para o texto dado.
