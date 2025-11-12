@@ -1,23 +1,3 @@
----
-library_name: transformers
-license: mit
-datasets:
-- google-research-datasets/go_emotions
-tags:
-- multi-label
-- emoções
-- NLP
-- roberta
-- goemotions
-language:
-- en
-- pt
-base_model:
-- FacebookAI/roberta-base
-pipeline_tag: text-classification
----
-library_name: transformers
----
 
 #  pinheiro-roberta-goemotions
 
