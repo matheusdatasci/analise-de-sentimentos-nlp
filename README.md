@@ -1,5 +1,5 @@
 
-#  pinheiro-roberta-goemotions
+#  pinheiro-roberta-goemotions (já tem mais de 40 downloads no HuggingFace😎😎😎)
 
 <!-- Resumo rápido do modelo -->
 
