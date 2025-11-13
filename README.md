@@ -1,6 +1,6 @@
 
 #  pinheiro-roberta-goemotions 
-#### 📊 Estatísticas: +40 downloads no [Hugging Face](https://huggingface.co/teu-usuario/teu-modelo) 😎😎😎
+#### 📊 Estatísticas: +40 downloads no [Hugging Face](https://huggingface.co/pinheiroxs/pinheiro-roberta-goemotions) 😎😎😎
 
 <!-- Resumo rápido do modelo -->
 
