@@ -65,7 +65,7 @@ id2label = {
 modelo = AutoModelForSequenceClassification.from_pretrained("pinheiroxs/pinheiro-roberta-goemotions",id2label=id2label)
 
 # Criar pipeline
-classifier = pipeline("text-classification", model=modelo, tokenizer=tokenizer, return_all_scores=True)
+classifier = pipeline("text-classification", model=modelo, tokenizer=tokenizer, top_k=None)
 ```
 ```python
 # Exemplo de uso
